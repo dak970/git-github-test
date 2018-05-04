@@ -1,2 +1,3 @@
 # git-github-test
 Testing Git &amp; Github
+This is for testing purposes .... 
